@@ -1,0 +1,26 @@
+img.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40%;
+}
+ion-content{
+  background: linear-gradient(to top, #356659, #99f2c8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+h2 {
+  text-align: justify;
+  color: #ffffff;
+  font-family: 'Segoe UI';
+  font-size: xx-large
+}
+
+p {
+  text-align: justify;
+  font-family: "Yu Mincho", sans-serif;
+  color: #ffffff;
+  font-size: larger;
+}
+
+ion-item {
+  background: #ffffff;
+}
